@@ -1,0 +1,61 @@
+body{
+    background-color: #425167;
+    font-size: 18px;
+    
+
+}
+.barra{
+    background-color: #EEEEEE;
+    padding: 15px;
+    font-size: 18px;
+    word-spacing: 35px;
+    width: 97%;
+    display: block;
+    font-family: Arial Unicode MS;
+
+}
+    .barra a{
+        text-decoration: none;
+        color: #000;
+}
+        .barra a:hover{
+            background-color:  #E5306E;
+        }
+img{
+    width: 663px;
+
+}
+.primario{
+    background-color: #fff;
+    width: 643px;
+    padding: 10px;
+    font-family: Calibri (Cuerpo);
+}
+
+.secundario{
+    background-color: #26D7C9;
+    width: 30%;
+    padding: 15px;
+    float: right;
+    color: #000;
+}
+    .secundario a{
+        color: #000;
+    }
+
+
+.button{
+    padding: 50px;
+    font-size: 18px;
+    border: none;
+    width: 564px;
+    
+    color: #fff;
+    background-color:#E5306E;
+    
+}
+    .button a{
+        color: #fff;
+        text-decoration: none;
+    }
+
